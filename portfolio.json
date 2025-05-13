@@ -1,13 +1,13 @@
 [
   {
     "name": "the bigchiller company",
-    "link": "https://dmytromalakhov.github.io/The-bigchiller/",
+    "link": "https://yellowprice.github.io/The-bigchiller/",
     "img": "The bigchiller company.jpg",
     "descr": "I used Bootstrap and modal windows. You can find it on my Github - 'The-bigchiller'"
   },
   {
     "name": "image",
-    "link": "https://dmytromalakhov.github.io/test/",
+    "link": "https://yellowprice.github.io/test/",
     "img": "Image.jpg",
     "descr": "I used BEM, Sass and Gulp. The page without Bootstrap, and it's adaptive. You can find it on my Github - 'Image'"
   },
@@ -19,19 +19,19 @@
   },
   {
     "name": "new year",
-    "link": "https://dmytromalakhov.github.io/new-year",
+    "link": "https://yellowprice.github.io/new-year",
     "img": "new-year.jpg",
     "descr": "The development of this site is based on the practice of parallax javascript. Was designed as a greeting page for the new year. You can find it on my Github - 'new-year'"
   },
   {
     "name": "web Dev",
-    "link": "https://dmytromalakhov.github.io/portfolio-web-dev",
+    "link": "https://yellowprice.github.io/portfolio-web-dev",
     "img": "web-dev.jpg",
     "descr": "I used Bootstrap. You can find it on my Github - 'portfolio-web-dev'"
   },
   {
     "name": "photo coast",
-    "link": "https://dmytromalakhov.github.io/portfolio-photo-coast",
+    "link": "https://yellowprice.github.io/portfolio-photo-coast",
     "img": "photo-coast.jpg",
     "descr": "This is my first site that I posted on the Internet. The template was based with Bootstrap. You can find it on my Github - 'portfolio-photo-coast'"
   }
