@@ -6,7 +6,7 @@ function sendForm(e) {
         $('button').attr( 'data-target', '.thank-you' );
         e.preventDefault();
         $.ajax({
-            url: 'https://tranquil-sierra-86540.herokuapp.com/coast93@mail.ru',
+            url: 'https://tranquil-sierra-86540.herokuapp.com/[your_email]',
             method: 'POST',
             data: {
                 name: $('#name').val(),
